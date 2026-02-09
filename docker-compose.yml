@@ -1,0 +1,4 @@
+# Placeholder Docker Compose config for saasSpine
+# Define services as needed for reference apps.
+
+services: {}
